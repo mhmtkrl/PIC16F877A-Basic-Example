@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=led yak.X
+PROJECTNAME=Ex1_LedBlink.X
 
 # Active Configuration
 DEFAULTCONF=default
